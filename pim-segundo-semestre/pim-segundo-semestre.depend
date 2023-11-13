@@ -1,17 +1,23 @@
 # depslib dependency file v1.0
-1697583466 source:c:\users\haunt\onedrive\c\pim-segundo-semestre\main.c
+1699881704 source:c:\users\haunt\onedrive\c\pim-segundo-semestre\main.c
 	<stdio.h>
 	<stdbool.h>
+	<stdlib.h>
 	"obras.h"
+	"gerenciamento_obras.h"
 
-1697599163 source:c:\users\haunt\onedrive\c\pim-segundo-semestre\obras.c
+1699881990 source:c:\users\haunt\onedrive\c\pim-segundo-semestre\obras.c
 	<stdio.h>
 	<string.h>
 	"obras.h"
 
-1697641899 c:\users\haunt\onedrive\c\pim-segundo-semestre\obras.h
+1699881990 c:\users\haunt\onedrive\c\pim-segundo-semestre\obras.h
 
-1697583235 source:c:\users\haunt\onedrive\c\pim-segundo-semestre\manipulacao_arquivos.c
+1699851705 source:c:\users\haunt\onedrive\c\pim-segundo-semestre\manipulacao_arquivos.c
 	<stdio.h>
+	<string.h>
+	"obras.h"
+
+1699881990 c:\users\haunt\onedrive\c\pim-segundo-semestre\gerenciamento_obras.h
 	"obras.h"
 

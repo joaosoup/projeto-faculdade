@@ -19,4 +19,3 @@ void inicializarObras(struct Obra obras[]) {
 void exibirOpcoes(struct Obra obras[]) {
     printf("Qual obra voce gostaria de saber mais?\n 1 - %s\n 2 - %s\n 3 - %s\n 4 - %s\n 5 - Sair\n", obras[0].titulo, obras[1].titulo, obras[2].titulo, obras[3].titulo);
 }
-
