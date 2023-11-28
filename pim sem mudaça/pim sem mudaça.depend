@@ -1,0 +1,75 @@
+# depslib dependency file v1.0
+1700376999 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\compradeingresso.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
+1700377040 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\obra.c
+	<stdio.h>
+	<string.h>
+	"obra.h"
+
+1700376999 c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\obra.h
+
+1700377483 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"obra.h"
+
+1700377624 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\questionario.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"obra.h"
+	"csv.h"
+
+1700377596 c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\csv.h
+
+1700377794 source:c:\users\55119\desktop\nova pasta\canal novo\nova pasta\programação\c++\codeblock\pim sem mudaça\csv.c
+	<stdio.h>
+	"obra.h"
+	"csv.h"
+
+1701046942 source:c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\compradeingresso.c
+	<stdio.h>
+	<conio.h>
+	<stdbool.h>
+
+1701046943 source:c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\csv.c
+	<stdio.h>
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+	"obra.h"
+	"csv.h"
+
+1700876991 c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\obra.h
+
+1700879822 c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\csv.h
+
+1701027045 source:c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\main.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"obra.h"
+	<conio.h>
+
+1700881052 source:c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\obra.c
+	<stdio.h>
+	<string.h>
+	"obra.h"
+
+1700877808 source:c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\questionario.c
+	<stdio.h>
+	<stdbool.h>
+	<stdlib.h>
+	"obra.h"
+	"csv.h"
+
+1701026916 source:c:\users\haunt\onedrive\pim\pim_sem_mudaca\pim sem mudaça\gerenciamentoobras.c
+	<stdio.h>
+	<stdbool.h>
+	<string.h>
+	"obra.h"
+
